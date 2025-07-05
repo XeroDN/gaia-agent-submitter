@@ -18,5 +18,5 @@ This project is part of the Hugging Face Agents Course . It builds a smart agent
  1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gaia-agent-submitter.git
+git clone https://github.com/XeroDN/gaia-agent-submitter.git
 cd gaia-agent-submitter
